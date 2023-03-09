@@ -1,4 +1,5 @@
 //Bottom up - Tabulation method
+//Time - O(n) Space - O(1)[only variables used]
 #include <iostream>
 using namespace std;
 
@@ -23,6 +24,7 @@ int main(){
 }
 
 //Top down - Recursion + Memoization method
+//Time - O(n) Space - O(n)
 #include <iostream>
 #include <vector>
 using namespace std;
